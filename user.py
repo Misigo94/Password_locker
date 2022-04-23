@@ -7,4 +7,9 @@ class User:
         self.phone_number=phone_number
         self.email=email
 
-    def 
+    def save_user(self):
+        User.user_list.append(self)
+
+    def delete__user(self):
+        User.user_list.remove(self)
+        
