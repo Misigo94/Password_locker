@@ -1,4 +1,4 @@
-# Password Application
+# Password_locker Application
 
 ## By Martin Misigo
 
